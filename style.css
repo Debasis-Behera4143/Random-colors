@@ -1,0 +1,24 @@
+#color-box {
+    width: 500px;
+    height: 200px;
+    margin: 20px auto;
+    border: 1px solid #000;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    color: #333;
+}
+
+button {
+    display: block;
+    width: 100px;
+    height: 40px;
+    margin: 20px auto;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
